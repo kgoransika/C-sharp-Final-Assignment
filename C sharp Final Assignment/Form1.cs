@@ -78,5 +78,10 @@ namespace C_sharp_Final_Assignment
         {
 
         }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
